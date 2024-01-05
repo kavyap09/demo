@@ -1,2 +1,2 @@
 # demo
-my 1st repo-demo
+my 1st repo-demo.
